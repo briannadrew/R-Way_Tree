@@ -1,0 +1,11 @@
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\obj\Debug\netcoreapp3.0\RWayTree.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\obj\Debug\netcoreapp3.0\RWayTree.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\obj\Debug\netcoreapp3.0\RWayTree.AssemblyInfo.cs
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.exe
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.deps.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.runtimeconfig.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.runtimeconfig.dev.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\bin\Debug\netcoreapp3.0\RWayTree.pdb
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\obj\Debug\netcoreapp3.0\RWayTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\RWayTree\RWayTree\obj\Debug\netcoreapp3.0\RWayTree.pdb
